@@ -39,7 +39,7 @@ Proje de ek olarak  bir çalışma sergilenmemiştir. İsterlere uygun bir içer
 
 **Linkler**
 
-https://www.kaggle.com/code/mihrayildiz/load-predictor </br>
+https://www.kaggle.com/code/mihrayildiz/load-predictor-supervised </br>
 https://www.kaggle.com/datasets/mihrayildiz/loan-pedictor-dtset
 
 
