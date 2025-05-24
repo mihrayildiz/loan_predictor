@@ -1,4 +1,4 @@
-**Giriş**
+**Giriş**  </br>
 Dataset, kredi tahmini üzerine hazırlanmış olup 14 farklı sütundan ve 40.000 veri noktasından oluşmaktadır.
 Proje kapsamına dataset ile KNN algoritması kullanılarak müşterilerin kredi almaya uygun olup olmadığı incelenmiştir. 
 Keşifsel Veri Analizi(EDA), Görselleştirme, KNN algoritması, hiperparametre optimizasyonu yapılmıştır.
@@ -39,7 +39,7 @@ Proje de ek olarak  bir çalışma sergilenmemiştir. İsterlere uygun bir içer
 
 **Linkler**
 
-https://www.kaggle.com/code/mihrayildiz/load-predictor
+https://www.kaggle.com/code/mihrayildiz/load-predictor </br>
 https://www.kaggle.com/datasets/mihrayildiz/loan-pedictor-dtset
 
 
